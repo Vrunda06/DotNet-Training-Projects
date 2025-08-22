@@ -1,0 +1,5 @@
+2025-08-20 10:00:00 INFO Starting application
+2025-08-20 10:01:05 WARN Low disk space
+2025-08-20 10:02:10 ERROR Failed to connect to DB
+2025-08-20 10:03:55 INFO Processing request
+2025-08-20 10:04:01 ERROR Timeout occurred

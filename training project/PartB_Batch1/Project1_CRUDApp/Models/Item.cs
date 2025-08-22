@@ -1,0 +1,1 @@
+namespace Project1_CRUDApp.Models { public class Item { public int Id {get; set;} public string Name {get; set;} } }

@@ -1,0 +1,1 @@
+using System; namespace Project2_LoginSystem.Controllers { public class AuthController { } }
